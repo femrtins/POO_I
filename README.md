@@ -2,7 +2,7 @@
 
 Projeto da componente curricular programação orientada a objetos I. Utilizando projeção 3D baseado no funcionamento da câmera pinhole, criar uma forma de renderização de elementos tridimensionais em um ambiente virtual. Utilizou-se C++ para o desenvolvimento do projeto.
 
-## Modelagem de Objetos 3D:
+## :game_die: Modelagem de Objetos 3D:
 
 Cada objeto é representado por uma classe que encapsula suas propriedades e métodos relacionados.
 
